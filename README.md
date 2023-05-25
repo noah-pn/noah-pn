@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 - 👋 Hi, I’m @noahpn
 - 👀 I’m interested in Science
 - 🌱 I’m currently learning React with Typescript and Rust
