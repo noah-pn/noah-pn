@@ -6,6 +6,6 @@
 - 📫 How to reach me: contact@noahpn.io
 
 <!---
-noahpnio/noahpnio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+noah-pn/noah-pn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
