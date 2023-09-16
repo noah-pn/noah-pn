@@ -1,5 +1,5 @@
 ![Header](./github-header-image.png)
-- 👋 Hi, I’m @noahpn
+- 👋 Hi, I’m @noah-pn
 - 👀 I’m interested in Science
 - 🌱 I’m currently learning React with Typescript and Rust
 - 💞️ I’m looking to collaborate on Open-Source Projects
